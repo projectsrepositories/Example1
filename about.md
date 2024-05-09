@@ -11,4 +11,5 @@ This is a demo web app. Hello.
 
 -  It displays the histogram of ozone level.
 -  User can change the number of bins for the histogram.
+-  User can do many things.
 
